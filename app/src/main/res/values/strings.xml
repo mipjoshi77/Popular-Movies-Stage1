@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">popular-movies-stage1</string>
+
+    <!-- Error messages-->
+    <string name="error_message">Movie data not available. Please try again after sometime</string>
+
+    <string name="movie_rating_header_text">Ratings:</string>
+    <string name="movie_release_date_header_text">Release Date:</string>
+    <string name="movie_overview_header_text">Overview:</string>
+</resources>
