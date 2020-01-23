@@ -9,7 +9,7 @@ import java.util.List;
 
 import nanodegree.udacity.popular_movies_stage1.model.Movie;
 
-public class JsonUtils {
+public final class JsonUtils {
 
     private static final String BASE_URL = "https://image.tmdb.org/t/p/";
     private static final String POSTER_SIZE = "w185";

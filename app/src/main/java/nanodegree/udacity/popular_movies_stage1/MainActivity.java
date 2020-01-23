@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements MovieDBAdapter.Mo
 
     private MovieDBAdapter adapter;
     private List<Movie> movieList;
-    String query = "popular";
+    private String query = "popular";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
