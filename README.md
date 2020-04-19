@@ -1,5 +1,5 @@
 # Popular-Movies-Stage1
-Udacity | Android Developer Nanodegree | Project 2: Sandwich Club
+Udacity | Android Developer Nanodegree | Project 2: Popular Movies, Stage 1
 
 ### Project Overview:
 Most of us can relate to kicking back on the couch and enjoying a movie with friends and family.
