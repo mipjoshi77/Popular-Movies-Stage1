@@ -31,5 +31,4 @@ You will use adapters and custom list layouts to populate list views.
 You will incorporate libraries to simplify the amount of code you need to write
 
 ### Snapshots:
-<img src="app-snapshots/Screenshot_1.png" width=300>  <img src="app-snapshots/Screenshot_2.png" width=300>
-<img src="app-snapshots/Screenshot_3.png" width=300>  <img src="app-snapshots/Screenshot_4.png" width=300>
+<img src="app-snapshots/Screenshot_1.png" width=250>  <img src="app-snapshots/Screenshot_2.png" width=250>
